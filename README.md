@@ -1,5 +1,5 @@
 ## Instalasi
 
 ```bash
-$ pip install telebot
+pip install telebot
 ```
